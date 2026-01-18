@@ -1,1 +1,1 @@
-# odin-recipes
+this is a good project for having fun and all
